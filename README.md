@@ -1,3 +1,5 @@
+[![MasterHead](banner.png)](https://github.com/rsadykhov)
+
 <h2>About Me</h2><a align="right" href="https://www.linkedin.com/in/rem-sadykhov"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a>
 
 <p>
