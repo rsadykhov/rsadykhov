@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">About</h2>h2
-
+<h2 align="left">About</h2>
+<p>
 I'm a Computer Science PhD student at UCL in the Financial Computing group. My main research areas are economic mechanism design, simulation engines, digital economies and regulation technology.
+</p>
 <h4 align="left">Connect:</h4>
 <a href="www.linkedin.com/in/rem-sadykhov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
