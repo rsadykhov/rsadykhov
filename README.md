@@ -5,12 +5,12 @@ I'm a Computer Science PhD student at UCL in the Financial Computing group. My m
 
 <h4 align="left">Connect:</h4>
 <p>
-<a href="www.linkedin.com/in/rem-sadykhov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rem-sadykhov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a>
 </p>
 
-<h2 align="left">Publications</h2>
+<h2 align="left">Publications 📖</h2>
 <ul>
-  <li>📖 Decentralized Token Economy Theory (DeTEcT): Token pricing, stability and governance for token economies [<a href="https://arxiv.org/abs/2309.12330">arXiv</a>, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578703">SSRN</a>, <a href="https://www.frontiersin.org/articles/10.3389/fbloc.2023.1298330/full">Frontiers in BLockchain</a>]</li>
+  <li>Decentralized Token Economy Theory (DeTEcT): Token pricing, stability and governance for token economies [<a href="https://arxiv.org/abs/2309.12330">arXiv</a>, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578703">SSRN</a>, <a href="https://www.frontiersin.org/articles/10.3389/fbloc.2023.1298330/full">Frontiers in BLockchain</a>]</li>
 </ul>
 
 <h2 align="left">Languages and Tools:</h2>
