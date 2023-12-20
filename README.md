@@ -1,5 +1,5 @@
 <h2 align="left">About Me
-<span align="right">Hello<a align="right" href="www.linkedin.com/in/rem-sadykhov"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a></span>
+<span style="float: right;">Hello<a align="right" href="www.linkedin.com/in/rem-sadykhov"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a></span>
 </h2>
 
 <p>
