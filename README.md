@@ -24,7 +24,7 @@ I'm a Computer Science PhD student at UCL in the Financial Computing group. My m
 
 <h2 align="left">Publications</h2>
 <ul>
-  <li>Decentralized Token Economy Theory (DeTEcT): Token pricing, stability and governance for token economies [<a href="https://arxiv.org/abs/2309.12330">arXiv</a>, <a href="[https://arxiv.org/abs/2309.12330](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578703)">SSRN</a>, <a href="[https://arxiv.org/abs/2309.12330](https://www.frontiersin.org/articles/10.3389/fbloc.2023.1298330/full)">Frontiers in BLockchain</a>]</li>
+  <li>Decentralized Token Economy Theory (DeTEcT): Token pricing, stability and governance for token economies [<a href="https://arxiv.org/abs/2309.12330">arXiv</a>, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578703">SSRN</a>, <a href="https://www.frontiersin.org/articles/10.3389/fbloc.2023.1298330/full">Frontiers in BLockchain</a>]</li>
 </ul>
 
 <h2 align="left">Languages and Tools:</h2>
