@@ -13,7 +13,13 @@ I'm a Computer Science PhD student at UCL in the Financial Computing group. My m
   <li>Decentralized Token Economy Theory (DeTEcT): Token pricing, stability and governance for token economies [<a href="https://arxiv.org/abs/2309.12330">arXiv</a>, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578703">SSRN</a>, <a href="https://www.frontiersin.org/articles/10.3389/fbloc.2023.1298330/full">Frontiers in BLockchain</a>]</li>
 </ul>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsadykhov&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"><a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="20" height="20"/></a></p>
