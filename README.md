@@ -1,4 +1,4 @@
-<table style="border: none; width: 100%">
+<table style="border: none; width: 100">
   <tr style="border: none">
     <td style="border: none"><h2 align="left">About Me</h2></td>
     <td><a align="right" href="www.linkedin.com/in/rem-sadykhov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a></td>
