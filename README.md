@@ -1,6 +1,8 @@
 ![MasterHead](banner.png)
 
-<h2>About Me</h2><a align="right" href="https://www.linkedin.com/in/rem-sadykhov"><img style="fill: blue;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a>
+<h2>About Me</h2>
+
+<a align="right" href="https://www.linkedin.com/in/rem-sadykhov"><svg style="fill: blue;" xmlns="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20"></svg></a>
 
 <p>
 I'm a Computer Science PhD student at UCL in the Financial Computing group. My main areas of interest are economic mechanism design, simulation engines, digital economies and regulation technology. I am currently working on DeTEcT - an economy simulation engine designed for economic policy sugestion and implementation, and DigiFi - an open-source financial library for Python 🐍.
