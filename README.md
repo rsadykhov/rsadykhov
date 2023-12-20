@@ -16,7 +16,7 @@ I'm a PhD student at UCL doing research in economic mechanism design, simulation
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&random=false&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
-Programming Languages:
+<h3>Programming Languages:</h3>
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
