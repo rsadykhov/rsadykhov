@@ -9,12 +9,13 @@ I'm a PhD student at UCL doing research in economic mechanism design, simulation
 </p>
 
 <h2 align="left">Publications 📖</h2>
+<p>
 <ul>
   <li>Decentralized Token Economy Theory (DeTEcT): Token pricing, stability and governance for token economies [<a href="https://arxiv.org/abs/2309.12330">arXiv</a>, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578703">SSRN</a>, <a href="https://www.frontiersin.org/articles/10.3389/fbloc.2023.1298330/full">Frontiers in BLockchain</a>]</li>
 </ul>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&random=false&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
-
 Programming Languages:
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
