@@ -5,7 +5,7 @@
 <a align="right" href="https://www.linkedin.com/in/rem-sadykhov">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <p>
-I'm a PhD student at UCL doing research in economic mechanism design, simulation engines, digital economies and regulation technology. I am currently working on DeTEcT - an economy simulation engine designed for economic policy sugestion and implementation, and DigiFi - an open-source financial library for Python 🐍.
+I'm a PhD student at UCL doing research in economic mechanism design, simulation engines, digital economies and regulation technology. I am currently working on DeTEcT - an economy simulation engine designed for economic policy sugestion and implementation, and <a href="https://github.com/orgs/Digital-Finance-DigiFi/repositories">DigiFi</a> - an open-source financial library for Python 🐍.
 </p>
 
 <h2 align="left">Publications 📖</h2>
