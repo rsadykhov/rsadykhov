@@ -20,7 +20,7 @@ I'm a PhD student at UCL doing research in economic mechanism design, simulation
 <h2 align="left">Publications</h2>
 <p>
 <ul>
-  <li>Decentralized Token Economy Theory (DeTEcT): Token pricing, stability and governance for token economies [<a href="https://arxiv.org/abs/2309.12330">arXiv</a>, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578703">SSRN</a>, <a href="https://www.frontiersin.org/articles/10.3389/fbloc.2023.1298330/full">Frontiers in BLockchain</a>]</li>
+  <li>Decentralized Token Economy Theory (DeTEcT): Token pricing, stability and governance for token economies [<a href="https://arxiv.org/abs/2309.12330">arXiv</a>, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578703">SSRN</a>, <a href="https://www.frontiersin.org/articles/10.3389/fbloc.2023.1298330/full">Frontiers in Blockchain</a>]</li>
   <li>DeTEcT: Dynamic and Probabilistic Parameters Extension [<a href="https://arxiv.org/abs/2405.16688">arXiv</a>, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845446">SSRN</a>]</li>
 </ul>
 </p>
