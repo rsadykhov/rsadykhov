@@ -39,6 +39,7 @@ I'm a PhD student at UCL doing research in economic mechanism design, simulation
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ### Tools/Libraries:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Rocket](https://img.shields.io/badge/Rocket-%23D33847?style=for-the-badge&logo=rocket&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -52,6 +53,7 @@ I'm a PhD student at UCL doing research in economic mechanism design, simulation
 ### Familiar/Worked With:
 ![NixOS](https://img.shields.io/badge/NixOS-black?style=for-the-badge&logo=nixos&logoColor=blue)
 ![Proxmox](https://img.shields.io/badge/Proxmox-black?style=for-the-badge&logo=proxmox&logoColor=%23E57000)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-white?style=for-the-badge&logo=truenas&logoColor=%230095D5)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
