@@ -60,6 +60,6 @@ I'm a PhD student at UCL doing research in economic mechanism design, simulation
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium-white?style=for-the-badge&logo=vscodium&logoColor=%232F80ED)
 ![Helix](https://img.shields.io/badge/Helix-white?style=for-the-badge&logo=helix&logoColor=%23281733)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
